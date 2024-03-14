@@ -1,0 +1,5 @@
+# Ignore description PDF
+Notes_esperienza_finale_corso_fotonica_2023.pdf
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints
